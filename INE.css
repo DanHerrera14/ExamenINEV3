@@ -1,0 +1,138 @@
+
+
+
+.INE {
+        width: 450px;
+        position: absolute;
+        top: 20%;
+        left: 10%;
+        height: 250px;
+        border-radius: 17px;
+        background-color: #f5f0f0;
+        border-left:0px;
+}
+
+.encabezado {
+        border-top-left-radius: 11.5px;
+        border-top-right-radius: 11.5px;
+        border-bottom-left-radius: 90%;
+        border-bottom-right-radius: 80%;
+        background-color: #baa8a4;
+        height: 25%;
+}
+ div  #escudo {
+    position: relative;
+    height: 60px;
+    width: 60px;
+    left: 15px;
+    top: 5px;
+}
+.encabezado div .mex p{
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+.encabezado div .instituto p{
+    font-size: 18px;
+    margin-top: 5px;
+}
+.encabezado div .instituto h1{
+    margin-top: -18px;
+    font-size: 12px;
+}
+#foto{
+    width:90%;
+    margin-left:17%;
+    margin-top:30%;
+
+}
+#foto2{
+    width:50%;
+    margin-left:30%;
+    margin-top:30%
+}
+#mapa{
+    width:50%;
+    margin-left:150%;
+    margin-top:-20%;
+    opacity: 0.;
+}
+#mapacentro{
+
+    
+        position:absolute;
+        top: 23%;
+        left: 30%;
+        width: 270px;
+        height: 160px;
+        border-radius:100px;
+        border-left:10px;
+        opacity: 0.25;
+
+
+}
+#piramide {
+    position:absolute;
+    top: 72%;
+    left:35%;
+    width: 100px;
+    height: 80px;
+    border-radius:1px;
+    border-left:1px;
+    opacity: 0.2;
+
+}
+
+#maguey {
+    position:absolute;
+    top: 83%;
+    left:62%;
+    width: 65px;
+    height: 45px;
+    border-radius:1px;
+    border-left:1px;
+    opacity: 0.1;
+
+}
+
+#greco {
+
+    background-image:"greco";
+   position:absolute;
+    top: 17%;
+    left:-2%;
+    width: 40px;
+    height: 203px;
+    border-radius:1px;
+    border-left:1px;
+    opacity:0.4;
+
+
+}
+
+
+#firma{
+    width:50%;
+    margin-left:35%;
+    margin-top:10%;
+}
+
+
+.datos p{
+    margin:0px;
+    font-size:8px;
+}
+.fecha p{
+    font-size: 8px;
+    margin: 0px;
+    text-align: center;
+    
+}
+.curp p{
+    font-size: 8px;
+    margin: 0px;
+}
+.pie p{
+    font-size: 8px;
+    margin: 0px;
+}
